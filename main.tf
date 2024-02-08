@@ -12,7 +12,7 @@ terraform {
   required_version = "~> 1.0"
 
   backend "remote" {
-    organization = "joseCompany"
+    organization = "joseCompan"
 
     workspaces {
       name = "EjemploCICD"
